@@ -4,7 +4,7 @@
 	$email = trim($_POST['email']);
 	$message = trim($_POST['message']);
 	
-	$emailTo = 'maberrocal@us.es'; //Put your own email address here
+	$emailTo = 'https://formspree.io/maberrocal@us.es'; //Put your own email address here
 	if (empty($subject)) {
 	    $subject = 'Message from your github website.';
 	}
