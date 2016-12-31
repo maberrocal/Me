@@ -1,2 +1,2 @@
-# projecttwo
-Repo de prueba 2
+# Personal project
+Personal web CV
